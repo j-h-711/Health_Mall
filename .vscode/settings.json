@@ -1,3 +1,7 @@
 {
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+
+  "git.path": "C:/Program Files/Git/bin/git.exe",
+  "git.enableCommitSigning": true,
+  "git.commitTemplate": "C:/Users/selfo/Documents/health_mall/Health_Mall/.gitmessage.txt"
 }
